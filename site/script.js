@@ -1,11 +1,8 @@
-// const button = document.querySelector("header button")
+let botaoguriEl = document.querySelector('#bguri');
+botaoguriEl.addEventListener('click', function() {
+    prompt('Escolha um nº de 1 à 4')
 
-// button.addEventListener("click", add)
-// function add(){
+}
 
-//     let img = document.createElement("isa.jpg");
-//     img.scr= isa.jpg;
-//     document.body.appendChild(img);
 
-// }
-document.getElementById(imagem).innerHTML = "<img src='site/isa.jpg'   ";
+)
