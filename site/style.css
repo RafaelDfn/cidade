@@ -2,14 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: tan;
+    background-color:lightblue;
    
 }
 .dmt{
   text-align: center;
   font-size: 40px;
   color:white;
-  background-color: forestgreen;
+  background-color: blue;
   border-radius: 40px;
   width: 600px;
   margin-left: 375px;
@@ -26,8 +26,22 @@
   text-align: center;
   font-size: 35px;
   color:white;
-  background-color: forestgreen;
+  background-color: blue;
   border-radius: 30px;
   width: 700px;
-  margin-left: 80px;
+  margin-left: 40px;
+}
+.tit{
+  text-align: center;
+  font-size: 27px;
+  color:white;
+  background-color:blue;
+  border-radius: 30px;
+  width: 700px;
+  margin-left: 320px;
+}
+a{
+  background-color:lightblue ;
+  border-radius: 20px;
+  color: blue;
 }
