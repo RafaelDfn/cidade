@@ -45,3 +45,13 @@ a{
   border-radius: 20px;
   color: blue;
 }
+.tabelas{
+  background-color:lightblue ;
+  border-radius: 20px;
+  color: blue;
+}
+.tabelas{
+  display: flex;
+  padding: 200px;
+  padding-top: 0px;
+}
