@@ -30,6 +30,7 @@
   border-radius: 30px;
   width: 700px;
   margin-left: 40px;
+  
 }
 .tit{
   text-align: center;
@@ -50,8 +51,49 @@ a{
   border-radius: 20px;
   color: blue;
 }
-.tabelas{
+.tabelasm{
   display: flex;
   padding: 200px;
   padding-top: 0px;
+  background-image: url(mercadodo.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tabelasf{
+  display: flex;
+  padding: 200px;
+  padding-top: 0px;
+  background-image: url(farma.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tabelasb{
+  display: flex;
+  padding: 200px;
+  padding-top: 0px;
+  background-image: url(Runway\ 2024-04-26T01_49_18.937Z\ Expand\ Image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tabelasr{
+  display: flex;
+  padding: 200px;
+  padding-top: 0px;
+  background-image: url(rest6.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fundo{
+ display: flex;
+
+}
+.f1{
+  padding-right: 100px;
+  display: flex;
+  background-color:#264406;
+
+}
+
+.foto{
+  background-image: url(bancobr.png);
 }
