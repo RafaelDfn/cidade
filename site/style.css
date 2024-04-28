@@ -1,8 +1,9 @@
 * {
     margin: 0;
-    padding: 0;
+    padding: 0%;
     box-sizing: border-box;
     background-color:lightblue;
+    
    
 }
 .dmt{
@@ -16,6 +17,8 @@
 }
 .tudo{
   display: flex;
+  
+  
 }
 .servicos{
  flex: 1;
@@ -44,7 +47,7 @@
 a{
   background-color:lightblue ;
   border-radius: 20px;
-  color: blue;
+  color:darkred;
 }
 .tabelas{
   background-color:lightblue ;
@@ -96,4 +99,7 @@ a{
 
 .foto{
   background-image: url(bancobr.png);
+}
+li{
+  padding: 3px;
 }

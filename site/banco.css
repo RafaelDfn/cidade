@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: linear-gradient(135deg, #3498db, #8e44ad);
+ }
+ 
+ header {
+    text-align: center;
+    padding: 20px;
+    background-image: linear-gradient(135deg, #3498db, #8e44ad);
+    color: #fff;
+ }
+ 
+ main {
+    text-align: center;
+    padding: 20px;
+ }
+ 
+ .bank-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+ }
+ 
+ .bank {
+    text-align: center;
+    margin: 20px;
+ }
+ 
+ .bank img {
+  
+    border-radius: 30px;
+    margin-bottom: 10px;
+ }
+ 
+ .bank h2 a {
+    color: #333;
+    text-decoration: none;
+ }
+ 
+ .bank h2 a:hover {
+    color: #3498db;
+ }
+ 
